@@ -1,0 +1,33 @@
+#header{
+    height: 7.5vh;
+    display: flex;
+    align-items: center;
+}
+.tamanhoModal{
+    width: 25vw;
+    height: 100vh;
+    float: right;
+}
+.nav{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    height: 5vh;
+    width: 100%;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    display: flex;
+    align-items: center;
+}
+#corpo{
+    min-height: 100vh;
+}
+.contato input{
+    margin: 0.5% 0;
+}
+.contato button{
+    margin: 5% 0;
+}
+.rodape{
+    min-height: 15vh;
+    display: flex;
+    align-items: center;
+}

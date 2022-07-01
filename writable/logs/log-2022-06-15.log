@@ -1,0 +1,77 @@
+CRITICAL - 2022-06-15 12:51:59 --> Class 'App\Controllers\PessoasModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 12:54:00 --> Class 'App\Controllers\PessoasModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 12:54:18 --> Class 'App\Controllers\PessoasModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 12:56:03 --> Class 'App\Controllers\PessoasModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 12:57:02 --> Class 'App\Controllers\PessoasModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 12:58:04 --> Class 'App\Controllers\PessoasModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 12:59:14 --> Class 'App\Controllers\PessoasModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 13:00:19 --> Class 'App\Controllers\PessoaModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 13:00:24 --> Class 'App\Controllers\PessoaModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 13:03:35 --> Class 'App\Controllers\PessoaModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
+CRITICAL - 2022-06-15 13:05:14 --> Class 'App\Controllers\PessoaModel' not found
+#0 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(832): App\Controllers\Home->loginPessoa()
+#1 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\Loja-Veiculos\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\Loja-Veiculos\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\Loja-Veiculos\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\L...')
+#5 {main}
